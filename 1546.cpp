@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 using namespace std;
 
 int main(void)
@@ -10,7 +10,7 @@ int main(void)
 		cin >> TestScore[i];
 		if (TestScore[i] > 1000)
 		{
-			cout << "TestÀÇ °ªÀÌ 1000 ÀÌ»óÀÔ´Ï´Ù." << endl;
+			cout << "Testì˜ ê°’ì´ 1000 ì´ìƒìž…ë‹ˆë‹¤." << endl;
 			break;
 		}
 		if (max < TestScore[i])
